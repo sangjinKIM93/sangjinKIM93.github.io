@@ -4,7 +4,7 @@
 		"details":[
 			{
 			"appID":"RKCDCG35JA.com.korbit.exchange",
-			"paths":["signup/confirmation/*"]
+			"paths":["/signup/confirmation/*"]
 			}
 		]
 	}
